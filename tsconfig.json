@@ -1,0 +1,8 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    // Diğer ayarlar...
+    "jsx": "react-native", // JSX ayarını ekledik,
+    "esModuleInterop": true
+  }
+}
